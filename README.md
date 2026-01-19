@@ -21,11 +21,6 @@ To improve accuracy and readability of the visuals, the following steps were app
 - Rounded rating values and converted them to **Whole Number** to reduce granularity and improve chart clarity.
 - Applied sorting and consistent formatting for better dashboard usability.
 
-## Dashboard Preview
-Add a screenshot of the final dashboard here:
-
-`/assets/dashboard.png`
-
 ## Tools Used
 - Power BI (Visualization)
 - Power Query (Data Cleaning & Transformation)
@@ -40,4 +35,4 @@ Add a screenshot of the final dashboard here:
 - `dashboard.pbix` — Power BI report file  
 
 ## Author
-Yahya Alrefae
+Yahia Rifai
